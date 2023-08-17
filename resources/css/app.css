@@ -1,0 +1,25 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body{
+    height: 100%;
+}
+
+:root{
+    --dourado-claro: #FFEE32;
+    --dourado-escuro: #523C0A;
+    --escuro: #000000;
+    --claro: #fff;
+}
+
+a{
+    text-decoration: none;
+}
+
+img{
+    background-repeat: no-repeat;
+}
